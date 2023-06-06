@@ -18,33 +18,33 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
-         "Banner1":"IMG_16_9_APP_INSTALL#3011693982286504_3122146901241211",
-         "Interstitial1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+         "ad_showAdStatus":"1",
+         "Banner1":" ",
+         "Interstitial1":"",
+         "Interstitial2":"",
          "Interstitial3":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial4":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+         "Interstitial4":"",
       
      
                
           "Interstitial_exit":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit1":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit2":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",  
+         "Interstitial_exit1":"",
+         "Interstitial_exit2":"",  
          "Interstitial_exit3":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit4":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
-         "Interstitial_exit5":"IMG_16_9_APP_INSTALL#3011693982286504_3122144151241486",
+         "Interstitial_exit4":"",
+         "Interstitial_exit5":"",
           
                 
-         "Native1":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
+         "Native1":"",
          "NativeBanner1":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958"
      
       },
       "Unity":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
           "AppID":" "
       },
        "applovin":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "applovin_intretial":"4bc763097e532817",
           "applovin_baner":"21167088e88c776c",
           "applovin_native":"fddc370e2436a416",
