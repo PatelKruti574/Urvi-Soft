@@ -40,7 +40,7 @@
      
       },
       "Unity":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "AppID":" "
       },
        "applovin":{
