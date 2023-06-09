@@ -39,17 +39,7 @@
          "NativeBanner1":"230807221472038_474481330437958"
      
       },
-      "Unity":{
-         "ad_showAdStatus":"",
-          "AppID":" "
-      },
-       "applovin":{
-         "ad_showAdStatus":"",
-         "applovin_intretial":"4bc763097e532817",
-          "applovin_baner":"21167088e88c776c",
-          "applovin_native":"fddc370e2436a416",
-          "applovin_native1":"fddc370e2436a416"
-      },
+      
       "QurekaLite":{
          "ad_showAdStatus":"",
           "AppID":"https://336.set.qureka.com/"
