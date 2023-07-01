@@ -1,10 +1,10 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
-      "app_adShowStatus":"",
+      "app_adShowStatus":"1",
        "applovin_fberrorshow":""
    },
    "PLACEMENT":{
@@ -18,7 +18,7 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
          "Banner1":" ",
          "Interstitial1":"",
          "Interstitial2":"",
@@ -36,7 +36,7 @@
           
                 
          "Native1":"",
-         "NativeBanner1":"",
+         "NativeBanner1":""
      
       },
       
