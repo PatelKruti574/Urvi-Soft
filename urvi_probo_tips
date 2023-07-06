@@ -1,0 +1,48 @@
+{
+"STATUS":true,
+   "MSG":"",
+   "onback_adshow":"1",
+   "APP_SETTINGS":{
+      "app_privacyPolicyLink":"",
+      "app_adShowStatus":"1",
+       "applovin_fberrorshow":""
+   },
+   "PLACEMENT":{
+      "Admob":{
+         "ad_showAdStatus":"",
+          "AppID":" ",
+         "Banner1":" ",
+         "Interstitial1":" ",
+         "Native1":" ",
+         "Native_baner":" ",
+          "AppOpen1":" "
+      },
+      "Facebookaudiencenetwork":{
+         "ad_showAdStatus":"1",
+         "Banner1":" ",
+         "Interstitial1":"IMG_16_9_APP_INSTALL#808438537258000_814775879957599",
+         "Interstitial2":"IMG_16_9_APP_INSTALL#808438537258000_814775949957592",
+         "Interstitial3":"IMG_16_9_APP_INSTALL#808438537258000_814776003290920",
+         "Interstitial4":"IMG_16_9_APP_INSTALL#808438537258000_814776079957579",
+      
+     
+               
+          "Interstitial_exit":"IMG_16_9_APP_INSTALL#808438537258000_814776149957572",
+         "Interstitial_exit1":"IMG_16_9_APP_INSTALL#808438537258000_814776243290896",
+         "Interstitial_exit2":"IMG_16_9_APP_INSTALL#808438537258000_814776336624220",  
+         "Interstitial_exit3":"IMG_16_9_APP_INSTALL#808438537258000_814776416624212",
+         "Interstitial_exit4":"IMG_16_9_APP_INSTALL#808438537258000_814776533290867",
+         "Interstitial_exit5":"IMG_16_9_APP_INSTALL#808438537258000_814776606624193",
+          
+                
+         "Native1":"IMG_16_9_APP_INSTALL#808438537258000_814776776624176",
+         "NativeBanner1":"IMG_16_9_APP_INSTALL#808438537258000_814776866624167"
+     
+      },
+      
+      "QurekaLite":{
+         "ad_showAdStatus":"",
+          "AppID":"https://336.set.qureka.com/"
+      }
+   }
+   }
