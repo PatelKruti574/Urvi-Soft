@@ -18,7 +18,7 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "Banner1":" ",
          "Interstitial1":"808438537258000_814775879957599",
          "Interstitial2":"808438537258000_814775949957592",
@@ -41,7 +41,7 @@
       },
       
       "QurekaLite":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "AppID":"https://336.set.qureka.com/"
       }
    }
