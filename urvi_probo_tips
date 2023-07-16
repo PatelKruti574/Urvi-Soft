@@ -1,7 +1,7 @@
 {
 "STATUS":true,
    "MSG":"",
-   "onback_adshow":"",
+   "onback_adshow":"1",
    "APP_SETTINGS":{
       "app_privacyPolicyLink":"",
       "app_adShowStatus":"1",
@@ -18,7 +18,7 @@
           "AppOpen1":" "
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"1",
+         "ad_showAdStatus":"",
          "Banner1":" ",
          "Interstitial1":"181665408220150_181666464886711",
          "Interstitial2":"181665408220150_181671628219528",
@@ -38,7 +38,7 @@
       },
       
       "QurekaLite":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
           "AppID":"https://336.set.qureka.com/"
       }
    }
