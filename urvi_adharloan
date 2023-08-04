@@ -9,41 +9,37 @@
    },
    "PLACEMENT":{
       "Admob":{
-         "ad_showAdStatus":"1",
-  "AppID":"ca-app-pub-3940256099942544~3347511713",
+         "ad_showAdStatus":"",
+        "AppID":"ca-app-pub-3940256099942544~3347511713",
          "Banner1":"ca-app-pub-3940256099942544\/6300978111",
-        
- "Interstitial1":"ca-app-pub-3940256099942544\/1033173712",
+         "Interstitial1":"ca-app-pub-3940256099942544\/1033173712",
          "Native1":"ca-app-pub-3940256099942544\/2247696110",
           "Native_baner":"ca-app-pub-3940256099942544\/2247696110",        
          "AppOpen1":"ca-app-pub-3940256099942544/3419835294"
       },
       "Facebookaudiencenetwork":{
-         "ad_showAdStatus":"",
+         "ad_showAdStatus":"1",
          "Banner1":"477487347896584_477487624563223",
-         "Interstitial1":"",
-         "Interstitial2":"",
+         "Interstitial1":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+         "Interstitial2":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
          "Interstitial3":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
-         "Interstitial4":" ",
-         "Interstitial5":"",
+         "Interstitial4":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+         "Interstitial5":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
          "Interstitial6":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
 "Interstitial7":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
 "Interstitial8":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
       
                
-          "Interstitial_exit":" ",
-         "Interstitial_exit1":" ",
-         "Interstitial_exit2":"",  
-         "Interstitial_exit3":"2312433698835503_2650502525028617",
-         "Interstitial_exit4":"",
+          "Interstitial_exit":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+         "Interstitial_exit1":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+         "Interstitial_exit2":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",  
+         "Interstitial_exit3":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
+         "Interstitial_exit4":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
          "Interstitial_exit5":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
-          "Interstitial_exit6":"",
+          "Interstitial_exit6":"IMG_16_9_APP_INSTALL#2312433698835503_2650502525028617",
          
-               
-             
-                
-         "Native1":"3011693982286504_3011695365619699",
-         "NativeBanner1":"230807221472038_474481330437958"
+         "Native1":"IMG_16_9_APP_INSTALL#3011693982286504_3011695365619699",
+         "NativeBanner1":"IMG_16_9_APP_INSTALL#230807221472038_474481330437958"
      
       },
       "Unity":{
